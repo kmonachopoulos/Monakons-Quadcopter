@@ -8,7 +8,7 @@
   Project       : Monakons Quadcopter
   File          : Motors_Control.ino
   Description   : This code defines Motor Speed process
-  Author        : Monahopoulos Konstantinos
+  Author        : Monachopoulos Konstantinos
   ------------------------------------------------------------------------------------------------------------------------------------------
 /*
   --------------------------------------------------------------------------------------------------

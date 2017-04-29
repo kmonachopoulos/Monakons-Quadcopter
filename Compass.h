@@ -8,7 +8,7 @@
   Project       : Monakons Quadcopter
   File          : Compass_HMC5883L.ino
   Description   : This code test HMC5883L magnetometer sensor
-  Author        : Monahopoulos Konstantinos
+  Author        : Monachopoulos Konstantinos
   ------------------------------------------------------------------------------------------------------------------------------------------
 */
 /*

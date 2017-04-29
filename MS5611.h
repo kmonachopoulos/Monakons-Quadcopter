@@ -8,7 +8,7 @@
   Project       : Monakons Quadcopter
   File          : MS5611_Control.ino
   Description   : This code test MS5611 sensor
-  Author        : Monahopoulos Konstantinos
+  Author        : Monachopoulos Konstantinos
   ------------------------------------------------------------------------------------------------------------------------------------------
 */
 /*  NOTE - This File is different from the file that is described in Report. Changing the main sketch optimized the implementation */

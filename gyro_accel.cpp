@@ -8,7 +8,7 @@
   Project       : Monakons Quadcopter
   File          : MPU_6050_Control.ino
   Description   : This code calibrates, test and debug MPU-6050 sensor
-  Author        : Monahopoulos Konstantinos
+  Author        : Monachopoulos Konstantinos
   ------------------------------------------------------------------------------------------------------------------------------------------
 */
 

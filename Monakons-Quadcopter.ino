@@ -8,7 +8,7 @@
   Project       : Monakons Quadcopter
   File          : Monakons_QuadCopter.ino
   Description   : This code calibrates, test and debug the Quadcopter
-  Author        : Monahopoulos Konstantinos
+  Author        : Monachopoulos Konstantinos
   ------------------------------------------------------------------------------------------------------------------------------------------
 */
 // Structure:

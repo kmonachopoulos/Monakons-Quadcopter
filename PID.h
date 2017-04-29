@@ -8,7 +8,7 @@
   Project       : Monakons Quadcopter
   File          : PID_Control.ino
   Description   : This code defines PID process
-  Author        : Monahopoulos Konstantinos
+  Author        : Monachopoulos Konstantinos
   ------------------------------------------------------------------------------------------------------------------------------------------
 */
 /*
